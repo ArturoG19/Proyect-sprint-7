@@ -1,15 +1,22 @@
 # Proyect-sprint-7
 Crear mi primer app web 
-Es una peque;a app que muestra graficos que me interezaron del detaframe vehicles_us.csv
+Es una pequeña app que muestra graficos que me interezaron del detaframe vehicles_us.csv
 Solo que hay un problema le hago entega de varios url
 agradeceria algo de guia para poder hacer el deply ya que no se que es lo que esta fallando al parecer 
+
+
+Update en archivo README despues de la primera revision
+Hola Oscar no puedo creer q mi error fuese tan simple una disculpa 
+ahora si hago entrega del proyecto con el enlace de git hub y 
+el enlace de la app web
+muchas gracias por revisar mi proyecto y gracias tambein de antemano por la segunda revision
+Que tengas una excelente tarde 
+
+
 
 Repositorio Git Hub
 https://github.com/ArturoG19/Proyect-sprint-7.git
 
 
-Video  del funcionamento de la app en local host
-https://www.loom.com/share/a4e4ecdc0c2646b4a964cf964bb6afff?sid=54cbe669-6176-44f5-b509-867a4fd7014e
-
-Failed Deploy
-https://www.loom.com/i/0be854be00784d6b99b75c154d8daab2
+Render URL:
+https://proyect-sprint-7-lne2.onrender.com/
