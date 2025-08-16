@@ -1,4 +1,4 @@
-# Proyect-sprint-7
+# First App Web Streamlit
 Crear mi primer app web 
 Es una pequeña app que muestra graficos que me interezaron del detaframe vehicles_us.csv
 Solo que hay un problema le hago entega de varios url
