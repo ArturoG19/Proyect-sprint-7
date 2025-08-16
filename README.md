@@ -13,10 +13,5 @@ muchas gracias por revisar mi proyecto y gracias tambein de antemano por la segu
 Que tengas una excelente tarde 
 
 
-
-Repositorio Git Hub
-https://github.com/ArturoG19/Proyect-sprint-7.git
-
-
 Render URL:
 https://proyect-sprint-7-lne2.onrender.com/
